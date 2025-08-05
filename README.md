@@ -64,13 +64,6 @@ Após o treinamento:
 | RMSE Normalizado              | 0.0903      |
 | Correlação de Spearman        | 0.9232      |
 
-![Métricas do modelo](./resultados_modelo.png)
-
-### Melhor algoritmo identificado:
-- **VotingEnsemble** (com RandomForest e LightGBM)
-
-![Resumo do melhor modelo](./melhor_modelo.png)
-
 ---
 
 ## 🚀 Implantar o Modelo
